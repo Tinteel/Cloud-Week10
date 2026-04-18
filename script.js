@@ -1,4 +1,4 @@
-const API = "arn:aws:apigateway:eu-west-1::/apis/882jxtro48/routes/qoqn0n5";
+const API = "arn:aws:apigateway:eu-west-1::/apis/us4k08m77j/routes/sds4965";
 
 async function uploadFile() {
     const file = document.getElementById("fileInput").files[0];
